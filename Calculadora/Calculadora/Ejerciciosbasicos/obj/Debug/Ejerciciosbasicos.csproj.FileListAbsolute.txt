@@ -1,0 +1,10 @@
+C:\Users\Josue\source\repos\Ejerciciosbasicos\Ejerciciosbasicos\bin\Debug\Ejerciciosbasicos.exe.config
+C:\Users\Josue\source\repos\Ejerciciosbasicos\Ejerciciosbasicos\bin\Debug\Ejerciciosbasicos.exe
+C:\Users\Josue\source\repos\Ejerciciosbasicos\Ejerciciosbasicos\bin\Debug\Ejerciciosbasicos.pdb
+C:\Users\Josue\source\repos\Ejerciciosbasicos\Ejerciciosbasicos\obj\Debug\Ejerciciosbasicos.csproj.AssemblyReference.cache
+C:\Users\Josue\source\repos\Ejerciciosbasicos\Ejerciciosbasicos\obj\Debug\Ejerciciosbasicos.Form1.resources
+C:\Users\Josue\source\repos\Ejerciciosbasicos\Ejerciciosbasicos\obj\Debug\Ejerciciosbasicos.Properties.Resources.resources
+C:\Users\Josue\source\repos\Ejerciciosbasicos\Ejerciciosbasicos\obj\Debug\Ejerciciosbasicos.csproj.GenerateResource.cache
+C:\Users\Josue\source\repos\Ejerciciosbasicos\Ejerciciosbasicos\obj\Debug\Ejerciciosbasicos.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\Ejerciciosbasicos\Ejerciciosbasicos\obj\Debug\Ejerciciosbasicos.exe
+C:\Users\Josue\source\repos\Ejerciciosbasicos\Ejerciciosbasicos\obj\Debug\Ejerciciosbasicos.pdb
