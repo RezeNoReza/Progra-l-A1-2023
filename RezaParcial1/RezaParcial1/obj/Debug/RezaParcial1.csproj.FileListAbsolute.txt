@@ -1,0 +1,20 @@
+C:\Users\rezeb\source\repos\RezaParcial1\RezaParcial1\bin\Debug\RezaParcial1.exe.config
+C:\Users\rezeb\source\repos\RezaParcial1\RezaParcial1\bin\Debug\RezaParcial1.exe
+C:\Users\rezeb\source\repos\RezaParcial1\RezaParcial1\bin\Debug\RezaParcial1.pdb
+C:\Users\rezeb\source\repos\RezaParcial1\RezaParcial1\obj\Debug\RezaParcial1.csproj.AssemblyReference.cache
+C:\Users\rezeb\source\repos\RezaParcial1\RezaParcial1\obj\Debug\RezaParcial1.Form1.resources
+C:\Users\rezeb\source\repos\RezaParcial1\RezaParcial1\obj\Debug\RezaParcial1.Properties.Resources.resources
+C:\Users\rezeb\source\repos\RezaParcial1\RezaParcial1\obj\Debug\RezaParcial1.csproj.GenerateResource.cache
+C:\Users\rezeb\source\repos\RezaParcial1\RezaParcial1\obj\Debug\RezaParcial1.csproj.CoreCompileInputs.cache
+C:\Users\rezeb\source\repos\RezaParcial1\RezaParcial1\obj\Debug\RezaParcial1.exe
+C:\Users\rezeb\source\repos\RezaParcial1\RezaParcial1\obj\Debug\RezaParcial1.pdb
+C:\Users\rezeb\source\repos\Secuencia Fibonacci\RezaParcial1\RezaParcial1\bin\Debug\RezaParcial1.exe.config
+C:\Users\rezeb\source\repos\Secuencia Fibonacci\RezaParcial1\RezaParcial1\bin\Debug\RezaParcial1.exe
+C:\Users\rezeb\source\repos\Secuencia Fibonacci\RezaParcial1\RezaParcial1\bin\Debug\RezaParcial1.pdb
+C:\Users\rezeb\source\repos\Secuencia Fibonacci\RezaParcial1\RezaParcial1\obj\Debug\RezaParcial1.csproj.AssemblyReference.cache
+C:\Users\rezeb\source\repos\Secuencia Fibonacci\RezaParcial1\RezaParcial1\obj\Debug\RezaParcial1.Form1.resources
+C:\Users\rezeb\source\repos\Secuencia Fibonacci\RezaParcial1\RezaParcial1\obj\Debug\RezaParcial1.Properties.Resources.resources
+C:\Users\rezeb\source\repos\Secuencia Fibonacci\RezaParcial1\RezaParcial1\obj\Debug\RezaParcial1.csproj.GenerateResource.cache
+C:\Users\rezeb\source\repos\Secuencia Fibonacci\RezaParcial1\RezaParcial1\obj\Debug\RezaParcial1.csproj.CoreCompileInputs.cache
+C:\Users\rezeb\source\repos\Secuencia Fibonacci\RezaParcial1\RezaParcial1\obj\Debug\RezaParcial1.exe
+C:\Users\rezeb\source\repos\Secuencia Fibonacci\RezaParcial1\RezaParcial1\obj\Debug\RezaParcial1.pdb
